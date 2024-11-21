@@ -9,7 +9,7 @@ from environment.rewards import calculate_reward
 from environment.state_representation import get_state_representation
 
 class BlackjackGameEnv:
-    def __init__(self, deck_count=6, deck=None):
+    def __init__(self, deck_count=8, deck=None):
         self.deck = deck if deck is not None else Deck(deck_count)
         self.dealer = Dealer()
         self.player = Player()

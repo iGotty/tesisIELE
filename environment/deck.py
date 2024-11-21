@@ -4,7 +4,7 @@ import random
 from environment.card import Card, Suit
 
 class Deck:
-    def __init__(self, num_decks=6, cards=None):
+    def __init__(self, num_decks=8, cards=None):
         self.num_decks = num_decks
         self.running_count = 0
         if cards is not None:
