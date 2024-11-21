@@ -69,29 +69,34 @@ class DQNAgent:
         return action
 
     def replay(self, batch_size):
-        # Entrenar el modelo usando muestras aleatorias de memoria
         minibatch = random.sample(self.memory, batch_size)
-        losses = []
-        for state, action, reward, next_state, done in minibatch:
-            target = reward
-            if not done:
-                # Predecir recompensa futura
-                target = reward + self.gamma * np.amax(self.model.predict(next_state, verbose=0)[0])
-            # Predecir Q-valores para el estado actual
-            target_f = self.model.predict(state, verbose=0)
-            # Actualizar el Q-valor para la acción tomada
-            target_f[0][action] = target
-            # Entrenar el modelo
-            history = self.model.fit(state, target_f, epochs=1, verbose=0)
-            loss = history.history['loss'][0]
-            losses.append(loss)
-        # Calcular la pérdida promedio del minibatch
-        avg_loss = np.mean(losses) if losses else 0.0
-        self.loss_per_episode.append(avg_loss)
-        # Reducir la tasa de exploración
+        states = np.array([experience[0][0] for experience in minibatch])
+        next_states = np.array([experience[3][0] for experience in minibatch])
+        actions = [experience[1] for experience in minibatch]
+        rewards = [experience[2] for experience in minibatch]
+        dones = [experience[4] for experience in minibatch]
+
+        # Predecir Q-valores para estados actuales y siguientes
+        target_f = self.model.predict(states, verbose=0)
+        target_q_values_next = self.model.predict(next_states, verbose=0)
+
+        for i in range(batch_size):
+            if dones[i]:
+                target = rewards[i]
+            else:
+                target = rewards[i] + self.gamma * np.amax(target_q_values_next[i])
+            target_f[i][actions[i]] = target
+
+        # Entrenar el modelo en batch
+        history = self.model.fit(states, target_f, epochs=1, verbose=0)
+        loss = history.history['loss'][0]
+        self.loss_per_episode.append(loss)
+
+        # Actualizar epsilon
         if self.epsilon > self.epsilon_min:
             self.epsilon *= self.epsilon_decay
-        return avg_loss
+        return loss
+
 
     def get_state_category(self, state):
         hand_type = state['hand_type']

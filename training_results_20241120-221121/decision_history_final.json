@@ -1,0 +1,1252 @@
+[
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 3.0,
+            "true_count": 0.16883116883116883,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.34437086092715236,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 9.0,
+            "true_count": -0.8754208754208754,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 11.0,
+            "dealer_upcard": 7.0,
+            "true_count": -0.7123287671232877,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 3.0,
+            "true_count": -0.36363636363636365,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.1857142857142857,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 11.0,
+            "true_count": 0.0,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 5.0,
+            "true_count": 0.1925925925925926,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 5.0,
+            "true_count": -0.19622641509433963,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 5.0,
+            "true_count": -0.196969696969697,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 6.0,
+            "true_count": 0.20077220077220076,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 3.0,
+            "true_count": 0.41269841269841273,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.6341463414634146,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.8489795918367347,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 11.0,
+            "true_count": 0.8630705394190871,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 11.0,
+            "true_count": 1.0833333333333335,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 11.0,
+            "true_count": 1.3054393305439331,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 11.0,
+            "true_count": 1.092436974789916,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 6.0,
+            "true_count": 1.1255411255411254,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.6902654867256638,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 11.0,
+            "dealer_upcard": 7.0,
+            "true_count": 0.2374429223744292,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 7.0,
+            "true_count": 0.4770642201834862,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.2429906542056075,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 9.0,
+            "true_count": 0.0,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "split"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 9.0,
+            "true_count": 0.0,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 9.0,
+            "true_count": -0.25120772946859904,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 3.0,
+            "true_count": -0.5174129353233831,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 10.0,
+            "true_count": -1.3265306122448979,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 7.0,
+            "true_count": -2.1780104712041886,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 10.0,
+            "true_count": -2.5161290322580645,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 7.0,
+            "dealer_upcard": 7.0,
+            "true_count": -2.585635359116022,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 8.0,
+            "dealer_upcard": 10.0,
+            "true_count": -2.3636363636363638,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 3.0,
+            "true_count": -1.835294117647059,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 8.0,
+            "true_count": -1.5853658536585367,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 8.0,
+            "true_count": -1.2760736196319018,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 2.0,
+            "true_count": -1.9872611464968153,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 6.0,
+            "true_count": -0.16883116883116883,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 6.0,
+            "true_count": -0.5148514851485149,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 3.0,
+            "true_count": -0.348993288590604,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.7147766323024055,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.7247386759581882,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 4.0,
+            "true_count": -0.5551601423487544,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 11.0,
+            "true_count": 0.0,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 11.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.1933085501858736,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.38805970149253727,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 6.0,
+            "dealer_upcard": 2.0,
+            "true_count": 0.7908745247148289,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 8.0,
+            "dealer_upcard": 2.0,
+            "true_count": 0.9923664122137404,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 8.0,
+            "true_count": 1.0116731517509727,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.20800000000000002,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 6.0,
+            "true_count": 0.42448979591836733,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 4.0,
+            "true_count": 1.0833333333333335,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.1111111111111112,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.3390557939914163,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 8.0,
+            "true_count": 0.9122807017543859,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 7.0,
+            "true_count": 0.4663677130044843,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.2385321100917431,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 6.0,
+            "true_count": 0.9765258215962442,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 6.0,
+            "true_count": 2.0096618357487923,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 6.0,
+            "true_count": 2.2718446601941746,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.2935323383084576,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.0612244897959184,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.3333333333333333,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 2.0,
+            "true_count": 1.925925925925926,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.2857142857142857,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.574585635359116,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 11.0,
+            "true_count": 0.29545454545454547,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 11.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.216374269005848,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 2.0,
+            "true_count": 0.9454545454545455,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 9.0,
+            "true_count": 0.6582278481012659,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 7.0,
+            "true_count": -0.3398692810457516,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 9.0,
+            "true_count": -0.16883116883116883,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 5.0,
+            "true_count": 0.3432343234323432,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 5.0,
+            "true_count": 0.3501683501683502,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 5.0,
+            "true_count": 0.5379310344827587,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 5.0,
+            "true_count": 0.7298245614035087,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.1182795698924732,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.9489051094890512,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 2.0,
+            "true_count": 0.966542750929368,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 2.0,
+            "true_count": 1.164179104477612,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 6.0,
+            "true_count": 0.9923664122137404,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 8.0,
+            "true_count": 1.21875,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.248,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.7049180327868851,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.7119341563786008,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.7478991596638656,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 3.0,
+            "true_count": 2.2317596566523603,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 11.0,
+            "true_count": 2.052631578947368,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 4.0,
+            "dealer_upcard": 10.0,
+            "true_count": 2.1081081081081083,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 9.0,
+            "true_count": 1.6774193548387095,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.4716981132075473,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 19.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.4786729857819907,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 10.0,
+            "true_count": 0.7572815533980582,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 8.0,
+            "true_count": 1.56,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 11.0,
+            "true_count": 1.3402061855670102,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 6.0,
+            "true_count": 1.6507936507936507,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.4207650273224044,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 8.0,
+            "true_count": 1.7430167597765363,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 6.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.793103448275862,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "split"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.8139534883720931,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.52046783625731,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 5.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.52046783625731,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 7.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.835294117647059,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 11.0,
+            "true_count": 1.8795180722891565,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.95,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 11.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.3506493506493507,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 10.0,
+            "true_count": 1.3594771241830064,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.16883116883116883,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 10.0,
+            "true_count": -0.6864686468646864,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 9.0,
+            "true_count": -0.5234899328859061,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 12.0,
+            "dealer_upcard": 2.0,
+            "true_count": -0.1774744027303754,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 8.0,
+            "true_count": -0.7272727272727273,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 2.0,
+            "true_count": -0.5531914893617021,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 15.0,
+            "dealer_upcard": 2.0,
+            "true_count": -0.7402135231316725,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 9.0,
+            "dealer_upcard": 3.0,
+            "true_count": -0.7536231884057971,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 10.0,
+            "dealer_upcard": 4.0,
+            "true_count": -0.1933085501858736,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 3.0,
+            "true_count": 0.3984674329501916,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 13.0,
+            "dealer_upcard": 4.0,
+            "true_count": 1.0196078431372548,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.248,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 16.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.461847389558233,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 14.0,
+            "dealer_upcard": 5.0,
+            "true_count": 1.4979423868312756,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 9.0,
+            "dealer_upcard": 3.0,
+            "true_count": 1.9663865546218489,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 20.0,
+            "dealer_upcard": 2.0,
+            "true_count": 1.1206896551724137,
+            "hand_type": 1
+        },
+        "category": "pair_splitting",
+        "action_taken": "stand"
+    },
+    {
+        "state": {
+            "player_value": 18.0,
+            "dealer_upcard": 8.0,
+            "true_count": 0.6872246696035242,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    },
+    {
+        "state": {
+            "player_value": 21.0,
+            "dealer_upcard": 3.0,
+            "true_count": 0.7027027027027027,
+            "hand_type": 0
+        },
+        "category": "soft_totals",
+        "action_taken": "double"
+    },
+    {
+        "state": {
+            "player_value": 17.0,
+            "dealer_upcard": 7.0,
+            "true_count": 0.24074074074074073,
+            "hand_type": 2
+        },
+        "category": "hard_totals",
+        "action_taken": "hit"
+    }
+]
