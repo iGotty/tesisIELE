@@ -198,4 +198,4 @@ def train_agent(episodes=50000, batch_size=64):
     logger.info("Entrenamiento completado y datos finales guardados.")
 
 if __name__ == "__main__":
-    train_agent(episodes=200, batch_size=64)
+    train_agent(episodes=30000, batch_size=64)
