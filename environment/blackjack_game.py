@@ -19,7 +19,7 @@ class BlackjackGameEnv:
 
     def reset(self):
         # Evitar barajar si el mazo es predefinido
-        if self.deck.get_penetration() >= 0.5 and not getattr(self.deck, 'predefined', False):
+        if self.deck.get_penetration() >= 0.9 and not getattr(self.deck, 'predefined', False):
             self.deck.shuffle()
             self.true_count = 0
         else:
